@@ -3,7 +3,7 @@ from turtle import *
 from random import *
 
 getscreen().bgcolor("#88B04B")
-title("racing insects")
+title("Bugs Race")
 register_shape("ant.gif")
 register_shape("cockroach.gif")
 register_shape("beetle.gif")
